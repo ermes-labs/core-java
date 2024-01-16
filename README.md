@@ -8,7 +8,7 @@
 
 Java **implementation** of the [`Ermes`](https://ermes-labs.github.io/docs) framework
 
-[![language: Java](https://img.shields.io/badge/Java-language-02303A?style=flat-square&logo=gradle)](https://go.dev/)
+[![Build: Gradle](https://img.shields.io/badge/tool-Gradle-02303A?style=flat-square&logo=gradle)](https://go.dev/)
 [![Github CI](https://img.shields.io/github/actions/workflow/status/ermes-labs/core-java/ci.yml?style=flat-square&branch=main)](https://github.com/ermes-labs/core-java/actions/workflows/ci.yml)
 [![Codecov](https://img.shields.io/codecov/c/github/ermes-labs/core-java?color=44cc11&logo=codecov&style=flat-square)](https://codecov.io/gh/ermes-labs/core-java)
 [![GitHub Latest Release)](https://img.shields.io/github/v/release/ermes-labs/core-java?logo=github)](https://github.com/ermes-labs/core-java/releases)
